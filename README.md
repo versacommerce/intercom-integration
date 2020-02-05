@@ -1,8 +1,6 @@
 [<img src="versacommerce.png" width="250px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
 [<img src="intercom.png" width="90px" align="right" alt="intercom.com">](https://www.intercom.com/?utm_source=www.versacommerce.de)
 
-[VersaCommerce] [integration] [javascript] [Intercom]
-
 # Intercom Integration for VersaCommerce
 
 ## Intercom
